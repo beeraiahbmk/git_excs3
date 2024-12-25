@@ -1,4 +1,9 @@
 I am sai
 broh i am changed something
+<<<<<<< HEAD
 can i do long changes
 hello
+=======
+Hello this is an update
+hi guys
+>>>>>>> 2edeccb (update ss)
